@@ -1,2 +1,2 @@
-# ComponentMappingPractice
+# MappingComponentPractice
 Created with CodeSandbox
